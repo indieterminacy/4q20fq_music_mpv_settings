@@ -1,0 +1,1 @@
+heartbeat-command="xscreensaver-command -deactivate >&- 2>&- &"
